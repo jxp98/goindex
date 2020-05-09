@@ -5,8 +5,8 @@ var authConfig = {
     "root_pass": "index",  // 根目录密码，优先于.password
     "version" : "1.0.6", // 程序版本
     "theme" : "material", // material  classic 
-    "client_id": "202264815644.apps.googleusercontent.com",
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
+    "client_id": "386572254188-m4dcmjbqsuqb6quud6g1vhlj8hmpefsg.apps.googleusercontent.com",
+    "client_secret": "zVSXl-73ILyLneQUlI6-Mv20",
     "refresh_token": "", // 授权 token
     "root": "root" // 根目录ID
 };
